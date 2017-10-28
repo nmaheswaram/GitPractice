@@ -1,0 +1,2 @@
+Sample text for Git Practice.
+This Changes is for WR-21.
