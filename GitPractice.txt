@@ -2,4 +2,5 @@ Sample text for Git Practice.
 This Changes is for WR-21.
 This Changes is for WR-22. 
 Thease changes are for master.
+This is the change for WR-23.
 This is the conflict scenario for WR-23.
