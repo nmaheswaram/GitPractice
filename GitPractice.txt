@@ -1,2 +1,3 @@
 Sample text for Git Practice.
 This Changes is for WR-21.
+Thease changes are for master.
